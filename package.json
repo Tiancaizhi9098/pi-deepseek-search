@@ -1,0 +1,13 @@
+{
+  "name": "pi-deepseek-search",
+  "version": "0.1.0",
+  "private": true,
+  "description": "PI-Desktop plugin: web search & page fetch for the agent via the official DeepSeek Search / Fetch API.",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test tests/deepseek.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
